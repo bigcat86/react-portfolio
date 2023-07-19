@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.044eca33.css",
+    "main.js": "/react-portfolio/static/js/main.dc236563.js",
+    "static/media/wave-sunset.jpeg": "/react-portfolio/static/media/wave-sunset.a50f763db663278033b2.jpeg",
+    "static/media/blue-mesh.jpeg": "/react-portfolio/static/media/blue-mesh.dce0cecbcd3419948f7e.jpeg",
+    "static/media/groupie-landing.png": "/react-portfolio/static/media/groupie-landing.88aea1d1a38584daa001.png",
+    "static/media/crypt-home.png": "/react-portfolio/static/media/crypt-home.fc88e715463d45d1eb00.png",
+    "static/media/avett-bros.png": "/react-portfolio/static/media/avett-bros.9eaedd122d32b2acb689.png",
+    "static/media/blog-dash.png": "/react-portfolio/static/media/blog-dash.97297e4a0765c3e339b6.png",
+    "static/media/resume_ss.png": "/react-portfolio/static/media/resume_ss.13295d653c97e037c675.png",
+    "static/media/crypt-sign.png": "/react-portfolio/static/media/crypt-sign.25a2b6fffea705bd1d4c.png",
+    "static/media/python.png": "/react-portfolio/static/media/python.6a5cbc319ab3ddf8ef92.png",
+    "static/media/blog-logo.png": "/react-portfolio/static/media/blog-logo.e4f0c1f47da0c460c329.png",
+    "static/media/reactjs.png": "/react-portfolio/static/media/reactjs.89996b225745a7b82cf2.png",
+    "static/media/js.png": "/react-portfolio/static/media/js.3dfb665e058d08c99f28.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.044eca33.css.map": "/react-portfolio/static/css/main.044eca33.css.map",
+    "main.dc236563.js.map": "/react-portfolio/static/js/main.dc236563.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.044eca33.css",
+    "static/js/main.dc236563.js"
+  ]
+}
