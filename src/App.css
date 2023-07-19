@@ -1,0 +1,170 @@
+.nav-link {
+  color: black;
+}
+.portfolio-app {
+    height: 95.6vh;
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    background-image: url('./images/wave-sunset.jpeg');
+    background-size: cover;
+    color: whitesmoke;
+}
+
+#home {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+
+#aaron {
+    font-size: 80px;
+    width: 80%;
+    margin-left: 20px;
+    opacity: 0.6;
+    text-shadow: 0 0 5px rgb(255, 135, 135);
+}
+
+#stack {
+    width: 80%;
+    margin-left: 20px;
+    opacity: 0.6;
+    text-shadow: 0 0 5px rgb(255, 135, 135);
+}
+
+#bio {
+    color: whitesmoke;
+    text-shadow: 0 0 5px rgb(253, 148, 148);
+    margin-top: 130px;
+    text-align: center;
+    padding: 40px;
+    background-color: rgb(0, 195, 255, 0.5);
+}
+
+#bio p {
+    font-size: 20px;
+}
+
+#icons {
+    margin-top: 150px;
+}
+
+#icons img {
+    height: 100px;
+    width: 100px;
+    margin: 50px;
+}
+
+#contact {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: start;
+    width: 100vw;
+    height: 95.6vh;
+    background-color: black;
+}
+
+.email, .message,
+.submit button{
+    width: 500px;
+}
+
+.email {
+    margin-top: 200px;
+}
+
+.portfolio-project {
+    color: whitesmoke;
+    height: 100vh;
+    background: url('./images/blue-mesh.jpeg');
+    background-size: cover;
+}
+
+.project-img {
+    height: 70vh;
+    width: 70vw;
+}
+
+.project-img img{
+    height: 100%;
+    width: 100%;
+    padding: 50px;
+    object-fit: contain; 
+    opacity: 0.8;
+}
+
+.port-text {
+    font-size: 1.2rem;
+}
+
+/* button {
+    width: 50%;
+} */
+
+#resume {
+    display: flex;
+    justify-content: center;
+    height: 90vh;
+    width: 90vw;
+}
+
+#resume img {
+    margin-top: 50px;
+}
+
+#resume-cont {
+    height: 95.7vh;
+    background: linear-gradient(to bottom right, rgb(42, 41, 41), black);
+    mix-blend-mode: darken;
+}
+
+.col-9 {
+    display: flex;
+    justify-content: start;
+}
+/* ^this is for groupie */
+
+.col-3 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    opacity: 0.9;
+}
+
+.icons {
+    display: flex;
+    width: 500px;
+    justify-content: space-evenly;
+    font-size: 50px;
+}
+
+.icons i {
+    margin: 20px;
+    color: whitesmoke;
+}
+
+.card-icons {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.card-icons img{
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+}
+
+#crypt-icons, 
+#blog-icons {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+.card img {
+    width: 100%;
+}

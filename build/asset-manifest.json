@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.53e8c1bd.css",
+    "main.js": "/static/js/main.378a5dcc.js",
+    "static/media/tech-shapes.jpeg": "/static/media/tech-shapes.7157e090bd1f077ab777.jpeg",
+    "static/media/wave-sunset.jpeg": "/static/media/wave-sunset.a50f763db663278033b2.jpeg",
+    "static/media/groupie-landing.png": "/static/media/groupie-landing.88aea1d1a38584daa001.png",
+    "static/media/avett-bros.png": "/static/media/avett-bros.9eaedd122d32b2acb689.png",
+    "static/media/blog-dash.png": "/static/media/blog-dash.97297e4a0765c3e339b6.png",
+    "static/media/resume_ss.png": "/static/media/resume_ss.13295d653c97e037c675.png",
+    "static/media/crypt-sign.png": "/static/media/crypt-sign.25a2b6fffea705bd1d4c.png",
+    "static/media/python.png": "/static/media/python.6a5cbc319ab3ddf8ef92.png",
+    "static/media/reactjs.png": "/static/media/reactjs.89996b225745a7b82cf2.png",
+    "static/media/js.png": "/static/media/js.3dfb665e058d08c99f28.png",
+    "index.html": "/index.html",
+    "main.53e8c1bd.css.map": "/static/css/main.53e8c1bd.css.map",
+    "main.378a5dcc.js.map": "/static/js/main.378a5dcc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53e8c1bd.css",
+    "static/js/main.378a5dcc.js"
+  ]
+}
