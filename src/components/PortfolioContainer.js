@@ -5,6 +5,7 @@ import Contact from "./pages/Contact";
 import Portfolio from "./pages/Portfolio";
 import Resume from "./pages/Resume";
 import NavTabs from "./NavTabs";
+import Footer from "./Footer";
 
 export default function PortfolioContainer() {
 
@@ -32,6 +33,7 @@ const [view, setView] = useState('Home');
     <div>
         <NavTabs view={view} handleViewChange={handleViewChange}/>
         {renderPage()}
+        <Footer />
     </div>
   )
 }
