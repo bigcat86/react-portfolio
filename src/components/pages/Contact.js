@@ -6,7 +6,7 @@ export default function Contact() {
     const message = document.getElementById("validationDefault04");
     let regex = new RegExp("[a-z0-9]+@[a-z]+.[a-z]{2,3}");
     if (!regex.test(email.value) || !message.value) {
-      alert("Please enter valid email, or write something for fucks sake");
+      alert("Please enter valid email, or write something");
     } else {
       alert("Thank you for your message!");
       email.value = "";
