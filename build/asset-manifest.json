@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.044eca33.css",
-    "main.js": "/react-portfolio/static/js/main.dc236563.js",
+    "main.css": "/react-portfolio/static/css/main.93f9658d.css",
+    "main.js": "/react-portfolio/static/js/main.2ee4d996.js",
     "static/media/wave-sunset.jpeg": "/react-portfolio/static/media/wave-sunset.a50f763db663278033b2.jpeg",
     "static/media/blue-mesh.jpeg": "/react-portfolio/static/media/blue-mesh.dce0cecbcd3419948f7e.jpeg",
     "static/media/groupie-landing.png": "/react-portfolio/static/media/groupie-landing.88aea1d1a38584daa001.png",
@@ -15,11 +15,11 @@
     "static/media/reactjs.png": "/react-portfolio/static/media/reactjs.89996b225745a7b82cf2.png",
     "static/media/js.png": "/react-portfolio/static/media/js.3dfb665e058d08c99f28.png",
     "index.html": "/react-portfolio/index.html",
-    "main.044eca33.css.map": "/react-portfolio/static/css/main.044eca33.css.map",
-    "main.dc236563.js.map": "/react-portfolio/static/js/main.dc236563.js.map"
+    "main.93f9658d.css.map": "/react-portfolio/static/css/main.93f9658d.css.map",
+    "main.2ee4d996.js.map": "/react-portfolio/static/js/main.2ee4d996.js.map"
   },
   "entrypoints": [
-    "static/css/main.044eca33.css",
-    "static/js/main.dc236563.js"
+    "static/css/main.93f9658d.css",
+    "static/js/main.2ee4d996.js"
   ]
 }
